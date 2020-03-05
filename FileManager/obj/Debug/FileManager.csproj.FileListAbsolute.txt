@@ -1,0 +1,12 @@
+C:\Users\Vlad-PC\source\repos\FileManager\FileManager\bin\Debug\FileManager.exe.config
+C:\Users\Vlad-PC\source\repos\FileManager\FileManager\bin\Debug\FileManager.exe
+C:\Users\Vlad-PC\source\repos\FileManager\FileManager\bin\Debug\FileManager.pdb
+C:\Users\Vlad-PC\source\repos\FileManager\FileManager\bin\Debug\MetroFramework.dll
+C:\Users\Vlad-PC\source\repos\FileManager\FileManager\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Vlad-PC\source\repos\FileManager\FileManager\obj\Debug\FileManager.csprojAssemblyReference.cache
+C:\Users\Vlad-PC\source\repos\FileManager\FileManager\obj\Debug\FileManager.Form1.resources
+C:\Users\Vlad-PC\source\repos\FileManager\FileManager\obj\Debug\FileManager.Properties.Resources.resources
+C:\Users\Vlad-PC\source\repos\FileManager\FileManager\obj\Debug\FileManager.csproj.GenerateResource.cache
+C:\Users\Vlad-PC\source\repos\FileManager\FileManager\obj\Debug\FileManager.csproj.CopyComplete
+C:\Users\Vlad-PC\source\repos\FileManager\FileManager\obj\Debug\FileManager.exe
+C:\Users\Vlad-PC\source\repos\FileManager\FileManager\obj\Debug\FileManager.pdb
